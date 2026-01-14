@@ -88,4 +88,4 @@ async def health_check():
 
 if __name__ == "__main__":
     print(f"Starting Server. Dev Mode: {DEV_MODE}")
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=DEV_MODE)
+    uvicorn.run("main:app", host="0.0.0.0", port=10000, reload=DEV_MODE)
