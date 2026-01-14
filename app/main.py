@@ -83,6 +83,7 @@ async def chat_endpoint(request: Request, chat_data: ChatRequest): # Slowapi nee
         }
 
 @app.get("/")
+@app.head("/")
 async def health_check():
     return {"status": "ok"}
 
