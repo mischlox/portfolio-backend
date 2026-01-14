@@ -41,12 +41,12 @@ app.include_router(email_router)
 
 origins = [
     "http://localhost:3000",
-    os.getenv("FRONTEND_URL", "https://your-frontend.vercel.app") 
+    os.getenv("FRONTEND_URL", "https://portfolio-frontend-self-theta.vercel.app/") 
 ]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -81,6 +81,10 @@ async def chat_endpoint(request: Request, chat_data: ChatRequest): # Slowapi nee
             "response": response_text,
             "action": result.get("next_action", "none") # Add a new key for the action
         }
+
+@app.get("/")
+async def health_check():
+    return {"status": "ok"}
 
 if __name__ == "__main__":
     print(f"Starting Server. Dev Mode: {DEV_MODE}")
