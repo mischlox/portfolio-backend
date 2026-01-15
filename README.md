@@ -5,8 +5,7 @@ This FastAPI project serves as the backend for a professional portfolio, providi
 ### Key Features
 
 * **Intelligent RAG Chatbot:** Answers career-related questions by searching a private, up-to-date document database (Chroma Vector Store).
-* **Email Service:** Handles contact form submissions (`/submit-contact`), sending a primary email to the owner and an automated confirmation to the sender.
-* **Auto Vector Store Refresh:** Automatically checks source documents for updates and rebuilds the RAG vector store when changes are detected.
+* **Email Service:** Handles contact form submissions (`/submit-contact`), sending a primary email to the owner.
 
 ### Architecture Overview (The Portfolio Assistant)
 
@@ -28,21 +27,32 @@ The graph defines the explicit flow between these nodes, ensuring the assistant 
 
 * Python 3.10+
 * OpenRouter API Key (for PROD)
-* Email Credentials (for contact form)
+* Resend API Key
 
 #### Installation & Configuration
 
 1.  **Install dependencies:** `pip install -r requirements.txt`
-2.  **Configure `.env`:** Set `OPENROUTER_API_KEY` and all `MAIL_*` variables.
+2.  **Configure `.env`:**
+
+```
+OPENROUTER_API_KEY=your_openrouter_api_key
+OLLAMA_HOST=127.0.0.1:11434
+OLLAMA_MODEL=llama3.1:8b
+MAIL_TO=your_mail
+FRONTEND_URL=your_frontend_url
+RESEND_API_KEY=your_resend_api_key
+
+```
+
 3.  **Source Data:** Place markdown, text, or PDF files into the `data/source/` directory. The vector store is built on first run.
 
 #### Running the Server
 
 * **Development Mode (Ollama):** Requires local Ollama server running.
     ```bash
-    APP_ENV=dev uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    APP_ENV=dev uv run uvicorn app.main:app --reload --port 8000 
     ```
 * **Production Mode (OpenRouter):**
     ```bash
-    uvicorn main:app --host 0.0.0.0 --port 8000
+    uvicorn main:app --host 0.0.0.0 --port 10000
     ```
