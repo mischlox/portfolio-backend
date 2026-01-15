@@ -1,5 +1,7 @@
 # main.py
 import os
+from dotenv import load_dotenv
+load_dotenv()
 import uvicorn
 from fastapi import FastAPI, HTTPException, Request
 from pydantic import BaseModel
@@ -41,7 +43,7 @@ app.include_router(email_router)
 
 origins = [
     "http://localhost:3000",
-    os.getenv("FRONTEND_URL", "https://portfolio-frontend-self-theta.vercel.app/") 
+    os.getenv("FRONTEND_URL", "https://portfolio-frontend-self-theta.vercel.app") 
 ]
 
 app.add_middleware(

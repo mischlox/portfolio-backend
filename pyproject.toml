@@ -17,6 +17,7 @@ dependencies = [
     "langgraph>=1.0.5",
     "pydantic>=2.12.5",
     "pypdf>=6.5.0",
+    "resend>=2.19.0",
     "slowapi>=0.1.9",
     "uvicorn>=0.38.0",
 ]
