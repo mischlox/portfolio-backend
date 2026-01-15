@@ -348,11 +348,14 @@ requests==2.32.5
     #   posthog
     #   requests-oauthlib
     #   requests-toolbelt
+    #   resend
     #   tiktoken
 requests-oauthlib==2.0.0
     # via kubernetes
 requests-toolbelt==1.0.0
     # via langsmith
+resend==2.19.0
+    # via backend
 rich==14.2.0
     # via
     #   chromadb
@@ -423,6 +426,7 @@ typing-extensions==4.15.0
     #   pydantic
     #   pydantic-core
     #   referencing
+    #   resend
     #   sqlalchemy
     #   starlette
     #   typer
