@@ -82,6 +82,7 @@ class PortfolioAssistant:
             f"Answer the user question based strictly on the context provided below. "
             f"**Synthesize a comprehensive summary** from all relevant sections in the context."
             f"**DO NOT reference the context or the database in your final answer.** "
+            f"Answer in the same language as the question.\n"
             f"Keep the final answer concise.\n"
             f"**Today's Date is: {current_date}**\n\n"
             f"Question: {query}\n"
