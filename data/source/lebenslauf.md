@@ -1,5 +1,3 @@
-Gerne, hier ist dein Lebenslauf in Markdown-Format:
-
 # Lebenslauf
 
 ## KURZPROFIL
@@ -92,7 +90,16 @@ Gerne, hier ist dein Lebenslauf in Markdown-Format:
 
 ## PROJEKTE
 
-### Company Research Agent [[github.com/mischlox/company-researcher](https://www.google.com/search?q=https://github.com/mischlox/company-researcher)]
+### Portfolio Chat API [[github.com/mischlox/portfolio-backend](github.com/mischlox/portfolio-backend)]
+
+* **FastAPI-Backend** für ein professionelles Portfolio mit KI-Assistent und Email-Kontakt-Service.
+* Implementierung eines **Intelligenten RAG-Chatbots** (Retrieval-Augmented Generation) zur Beantwortung von Fragen zum beruflichen Werdegang mittels **LangGraph** und **Chroma Vector Store**.
+* Realisierung einer **Multi-Step-Logik** durch eine State-Machine-Architektur für komplexe Abfragen.
+* Integrierter **Email-Service** zur automatisierten Verarbeitung von Kontaktanfragen.
+* *Technologien:* Python, FastAPI, LangGraph, ChromaDB, RAG, OpenAI API / Gemini API.
+
+
+### Company Research Agent [[github.com/mischlox/company-researcher](github.com/mischlox/company-researcher)]
 
 * Tool für **automatisierte Unternehmensrecherche**, optimiert für die Vorbereitung von Bewerbungsgesprächen.
 * **Orchestrierung von Agenten** zur Generierung von Suchanfragen, Durchführung von Web-Suchen und Kompilierung von Berichten und Interviewfragen.
@@ -100,14 +107,14 @@ Gerne, hier ist dein Lebenslauf in Markdown-Format:
 * Fokus auf **Multi-Agenten-Architektur** und Nutzung von LLMs für datengesteuerte Analysen.
 * *Technologien:* Python, Google ADK, Gradio, Gemini API, Pydantic, MLflow.
 
-### Face Touching Detector [[github.com/mischlox/face-touching-detector](https://www.google.com/search?q=https://github.com/mischlox/face-touching-detector)]
+### Face Touching Detector [[github.com/mischlox/face-touching-detector](github.com/mischlox/face-touching-detector)]
 
 * Desktop-App in **C++** zur **Echtzeit-Erkennung** von Berührungen des Gesichts durch Überlappung von Händen und Gesichtern.
 * Implementierung der **YOLOv5m-Modellinferenz** mit **Libtorch C++** für hohe Leistung.
 * Fokus auf **modulare Architektur**, Visualisierung mit **Qt5** GUI und vereinfachtes Deployment via **Docker**.
 * *Technologien:* C++, Libtorch, Qt, Docker, CUDA, YOLOv5.
 
-### Augmented Reality Object Recognition App [[github.com/mischlox/AR-App-Object-Recognition](https://www.google.com/search?q=https://github.com/mischlox/AR-App-Object-Recognition)]
+### Augmented Reality Object Recognition App [[github.com/mischlox/AR-App-Object-Recognition](github.com/mischlox/AR-App-Object-Recognition)]
 
 * **Android-App in Java** zur **Echtzeit-Objekterkennung** und Lernen direkt mit der Smartphone-Kamera.
 * Kernfunktionalität basiert auf **Continual Learning** (Transfer Learning) zur Erweiterung eines vor-trainierten **MobilenetV2-Modells** mit neuen Objekten.
