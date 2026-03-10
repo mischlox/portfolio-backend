@@ -36,10 +36,28 @@
 
 ## BERUFSERFAHRUNG
 
+Hier ist der entsprechende Eintrag für deinen Lebenslauf. Da deine bisherigen Stationen sehr hochspezialisiert sind (Computer Vision, Defense, Automotive), verpacken wir die aktuelle Tätigkeit als **"Software Engineer & IT Consultant"**. Das zeigt Eigeninitiative, Fullstack-Kompetenz und die Fähigkeit, komplexe Probleme eigenständig zu lösen.
+
+Ersetze den Abschnitt **"Aktiv auf Jobsuche"** durch diesen Eintrag:
+
+---
+
+### Software Engineer & IT Consultant | JOOLS GmbH, Heubach
+
+* 10/2025 – Heute
+* **Schwerpunkt:** End-to-End Entwicklung von Softwarelösungen zur Prozessautomatisierung und Digitalisierung im Einzelhandel.
+* **Wesentliche Beiträge:**
+* **Digital Signage System:** Entwicklung und Deployment einer Python-basierten Software auf Raspberry Pi-Basis zur zentralen Steuerung von Werbeinhalten in mehreren Filialen (Remote Management via Tailscale).
+* **Employee Time Tracking:** Konzeption und Implementierung einer Fullstack-App (Python, SQLite, JavaScript) zur Zeiterfassung, inklusive Admin-Dashboard und automatisierter PDF-Berichterstellung für die Lohnabrechnung.
+* **Supply Chain Optimierung:** Entwicklung eines Tools zur automatisierten Bestellvorschlagswesen durch die Korrelation von Wareneingangsdaten mit Echtzeit-Abverkaufszahlen.
+* **Infrastruktur & Sicherheit:** Planung und Installation IP-basierter Überwachungssysteme sowie Optimierung der IT-Netzwerkarchitektur zur Steigerung der Ausfallsicherheit.
+* **Automatisierung:** Skripting von Workflows zur Reduzierung manueller Dateneingaben und zur Fehlervermeidung in der Lagerhaltung.
+* *Technologien:* Python, Flask, Electron, SQLite, Node.js, Bash, Linux, Raspberry Pi, IP-Networking.
+
 ### Aktiv auf Jobsuche | Vollzeit Software Engineer Stellen
 
 * 10/2025 – Heute
-* **Aktueller Status:** Derzeit arbeitslos, aktiv auf dem Jobmarkt, suche Vollzeitstellen als **Software-Ingenieur** mit Fokus auf **Computer Vision, KI und Embedded Systems (C++/Python)**.
+* **Aktueller Status:** aktiv auf dem Jobmarkt, suche Vollzeitstellen als **Software-Ingenieur** mit Fokus auf **Computer Vision, KI und Embedded Systems (C++/Python)**.
 * **Kontinuierliche Weiterentwicklung:** Konzentration auf fortgeschrittene persönliche Projekte, um die neuesten State-of-the-Art (SOTA)-Technologien zu implementieren, einschließlich:
 * **Agentic AI Systems:** Vertiefung des Wissens in **Multi-Agenten-Architektur** für komplexe Datenorchestrierung und Forschungsautomatisierung.
 
