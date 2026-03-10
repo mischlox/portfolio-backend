@@ -126,3 +126,19 @@
 * Desktop-Tool mit Login, Zeiterfassung, Admin-Dashboard, Soll-/Ist-Stunden, Urlaubs- & Krankheitsverwaltung, PDF-Export.
 * Produktiver Einsatz in 3 Filialen.
 * *Technologien:* Python, SQLite, JavaScript, Eel, HTML, CSS.
+
+### ROS2 Scan Table Manager [[github.com/mischlox/ros2-scan-table-cell](https://github.com/mischlox/ros2-scan-table-cell)]
+
+* Simulation einer automatisierten Pick-and-Place-Inspektionszelle mit **ROS2**.
+* Ein zentraler State-Machine-Node koordiniert **Roboterbewegungen, Barcode-Scans** und **Objektvalidierungen** über asynchrone Service-Interaktionen.
+* Mehrere Mock-Hardware-Nodes simulieren **Scanner, Sensoren und Aktoren**, um modulare ROS2-Node-Architektur und industrielle Automatisierungsworkflows zu demonstrieren.
+* *Technologien:* ROS2, C++, Robot Control, State Machines, Docker, Industrial Automation.
+
+### PiSignage – Low-Cost Digital Signage System [[github.com/mischlox/pisignage](https://github.com/mischlox/pisignage)]
+
+* Selbstgehostetes, kostengünstiges **Digital Signage System** auf Basis von **Raspberry Pi**.
+* Vermeidung von abonnementbasierten Plattformen und Vendor Lock-in.
+* Läuft auf einem **Raspberry Pi Zero 2W** und einem Desktop-PC als Host.
+* **Remote Device Management** über Tailscale Funnel.
+* Produktiv auf 6 Monitoren in 3 Supermarkt-Filialen
+* *Technologien:* Python, Embedded Systems, Flask, Electron, Node.js, Raspberry Pi, Bash, Tailscale.
