@@ -42,10 +42,11 @@ Ersetze den Abschnitt **"Aktiv auf Jobsuche"** durch diesen Eintrag:
 
 ---
 
-### Software Engineer & IT Consultant | JOOLS GmbH, Heubach
+### Software Engineer (Teilzeit) | JOOLS GmbH, Heubach
 
 * 10/2025 – Heute
 * **Schwerpunkt:** End-to-End Entwicklung von Softwarelösungen zur Prozessautomatisierung und Digitalisierung im Einzelhandel.
+* Teilzeitstelle mit Schwerpunkt auf der Entwicklung praktischer Softwaretools zur Automatisierung täglicher Prozesse in einem kleinen Einzelhandelsunternehmen.
 * **Wesentliche Beiträge:**
 * **Digital Signage System:** Entwicklung und Deployment einer Python-basierten Software auf Raspberry Pi-Basis zur zentralen Steuerung von Werbeinhalten in mehreren Filialen (Remote Management via Tailscale).
 * **Employee Time Tracking:** Konzeption und Implementierung einer Fullstack-App (Python, SQLite, JavaScript) zur Zeiterfassung, inklusive Admin-Dashboard und automatisierter PDF-Berichterstellung für die Lohnabrechnung.
