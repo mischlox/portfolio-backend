@@ -2,162 +2,496 @@
 
 ## KURZPROFIL
 
-**Software-Ingenieur** (M.Sc.) spezialisiert auf **C++ und Python** in den Bereichen **Embedded Systems, Echtzeitanwendungen, Computer Vision**, **Deep Learning** und **Sensor Fusion**. Profundes Wissen in der Entwicklung komplexer Softwarekomponenten für die Verteidigungs- und Automobilindustrie.
+**Software-Ingenieur (M.Sc.)** spezialisiert auf **C++ und Python** in den Bereichen **Embedded Systems, Echtzeitanwendungen, Computer Vision, Deep Learning und Sensor Fusion**.
+
+Erfahrung in der Entwicklung leistungsfähiger Softwarekomponenten für **KI-basierte Wahrnehmungssysteme, autonome Systeme und Embedded-Hardwareplattformen**. Fokus auf **Computer Vision Pipelines, Deep-Learning-Deployment auf Edge-Geräten, Multimodalität (Camera–LiDAR Fusion)** sowie **robuste Softwarearchitekturen für sensorbasierte Systeme**.
+
+Starke Ausrichtung auf **performante C++/Python-Systeme unter Linux**, reproduzierbare Forschungspipelines und **skalierbare KI-Systeme für reale Anwendungen** in Industrie und Forschung.
 
 ---
 
-## FÄHIGKEITEN
+# FÄHIGKEITEN
 
-* **Programmiersprachen:** C++, Python, Java, Bash, JavaScript
-* **Tools & Plattformen:** Linux, CMake, Git, Docker, Buildroot, VS Code, Atlassian Suite (Jira, Confluence, Bitbucket)
-* **Frameworks & Bibliotheken:** GoogleTest, PyTest, Qt, OpenCV
-* **Konzepte:** Agile Softwareentwicklung (Scrum), Software-Architektur & UML, Test-Driven Development (TDD), Embedded Systems, Real-Time Applications, Sensor Fusion
-* **Sprachen:** Deutsch (Muttersprache), Englisch (Fließend), Russisch (Grundkenntnisse)
+### Programmiersprachen
 
----
+* C++
+* Python
+* Java
+* Bash
+* JavaScript
 
-## AUSBILDUNG
+### Tools & Plattformen
 
-### **Master of Science – Robotics, Cognition and Intelligence**
+* Linux
+* CMake
+* Git
+* Docker
+* Buildroot
+* VS Code
+* Atlassian Suite (Jira, Confluence, Bitbucket)
 
-* Technische Universität München
-* 10/2022 – 09/2025
-* **Fokus:** Intelligente Robotiksysteme, **KI-gesteuerte Wahrnehmung**, lernbasierte Entscheidungsfindung, Mensch-Roboter-Interaktion (z. B. autonomes Fahren).
-* **Spezialisierung:** **Computer Vision & Wahrnehmung** (3D-Rekonstruktion, Objekterkennung, Segmentierung), **Sensor Fusion**, **Maschinelles Lernen** (Optimierung, statistisches Lernen), **Echtzeitsysteme** und klassische Robotik.
+### Frameworks & Bibliotheken
 
-### **Bachelor of Science – Informatik / Software Engineering**
+* ROS2
+* OpenCV
+* Qt
+* GoogleTest
+* PyTest
+* OpenPCDet
+* PyTorch
+* Open3D
+* NumPy
 
-* Hochschule Aalen
-* 10/2018 – 09/2022
-* **Fokus:** Systematische Softwareentwicklung, Clean-Code-Prinzipien und robuste, skalierbare Softwaresysteme.
-* **Spezialisierung:** **Software-Architektur & Design**, **Software-Qualität & Testing**, Projektmanagement, Verteilte Systeme und **Embedded & Mobile Entwicklung**.
+### KI / Computer Vision
 
----
+* Object Detection
+* Tiny Object Detection
+* Monocular Depth Estimation
+* Multimodal Sensor Fusion
+* Camera–LiDAR Fusion
+* Pseudo-Labeling
+* Dataset Annotation & Augmentation
+* Domain Adaptation
+* Embedded AI Deployment
+* Model Optimization (Quantization, Pruning)
 
-## BERUFSERFAHRUNG
+### Embedded & Systems
 
-Hier ist der entsprechende Eintrag für deinen Lebenslauf. Da deine bisherigen Stationen sehr hochspezialisiert sind (Computer Vision, Defense, Automotive), verpacken wir die aktuelle Tätigkeit als **"Software Engineer & IT Consultant"**. Das zeigt Eigeninitiative, Fullstack-Kompetenz und die Fähigkeit, komplexe Probleme eigenständig zu lösen.
+* ARM (Jetson)
+* FPGA / GPU Inference Platforms
+* Nvidia TensorRT
+* Xilinx Vitis AI
+* Embedded Linux
+* Buildroot
+* Edge AI Systems
 
-Ersetze den Abschnitt **"Aktiv auf Jobsuche"** durch diesen Eintrag:
+### Konzepte
 
----
+* Software Architektur
+* Test-Driven Development
+* Real-Time Systems
+* Sensor Fusion
+* Distributed Systems
+* Agile Softwareentwicklung (Scrum)
 
-### Software Engineer (Teilzeit) | JOOLS GmbH, Heubach
+### Sprachen
 
-* 10/2025 – Heute
-* **Schwerpunkt:** End-to-End Entwicklung von Softwarelösungen zur Prozessautomatisierung und Digitalisierung im Einzelhandel.
-* Teilzeitstelle mit Schwerpunkt auf der Entwicklung praktischer Softwaretools zur Automatisierung täglicher Prozesse in einem kleinen Einzelhandelsunternehmen.
-* **Wesentliche Beiträge:**
-* **Digital Signage System:** Entwicklung und Deployment einer Python-basierten Software auf Raspberry Pi-Basis zur zentralen Steuerung von Werbeinhalten in mehreren Filialen (Remote Management via Tailscale).
-* **Employee Time Tracking:** Konzeption und Implementierung einer Fullstack-App (Python, SQLite, JavaScript) zur Zeiterfassung, inklusive Admin-Dashboard und automatisierter PDF-Berichterstellung für die Lohnabrechnung.
-* **Supply Chain Optimierung:** Entwicklung eines Tools zur automatisierten Bestellvorschlagswesen durch die Korrelation von Wareneingangsdaten mit Echtzeit-Abverkaufszahlen.
-* **Infrastruktur & Sicherheit:** Planung und Installation IP-basierter Überwachungssysteme sowie Optimierung der IT-Netzwerkarchitektur zur Steigerung der Ausfallsicherheit.
-* **Automatisierung:** Skripting von Workflows zur Reduzierung manueller Dateneingaben und zur Fehlervermeidung in der Lagerhaltung.
-* *Technologien:* Python, Flask, Electron, SQLite, Node.js, Bash, Linux, Raspberry Pi, IP-Networking.
-
-### Aktiv auf Jobsuche | Vollzeit Software Engineer Stellen
-
-* 10/2025 – Heute
-* **Aktueller Status:** aktiv auf dem Jobmarkt, suche Vollzeitstellen als **Software-Ingenieur** mit Fokus auf **Computer Vision, KI und Embedded Systems (C++/Python)**.
-* **Kontinuierliche Weiterentwicklung:** Konzentration auf fortgeschrittene persönliche Projekte, um die neuesten State-of-the-Art (SOTA)-Technologien zu implementieren, einschließlich:
-* **Agentic AI Systems:** Vertiefung des Wissens in **Multi-Agenten-Architektur** für komplexe Datenorchestrierung und Forschungsautomatisierung.
-
-
-
-### Masterarbeit | TUM Institut für Fahrzeugtechnik, Garching
-
-* 11/2024 – 06/2025
-* **Multimodale Pseudo-Labeling für 3D-Objekterkennung beim Autonomen Fahren** (Note: **1,0**)
-* **Beiträge:**
-* Entwicklung einer **kameragestützten Pseudo-Labeling-Pipeline**, die monokulare Tiefenschätzung, 2D-Erkennung/Segmentierung und LiDAR-basierte 3D-Erkennung kombiniert.
-* Generierung von **Pseudo-LiDAR-Punktwolken** aus monokularen Bildern und Implementierung einer **projektions- und segmentierungsbasierten Label-Verfeinerung** mithilfe von 2D-semantischen Evidenzen.
-* Integration und Erweiterung von **OpenPCDet und nuScenes** für kundenspezifische Evaluierungen (z. B. reichweitenbasierte Metriken).
-* Analyse von Domain Gaps und Evaluierung von Adaptionsstrategien, wodurch messbare **Verbesserungen der Erkennungsqualität und Label-Konsistenz** erzielt wurden.
-
-
-* *Technologien:* Python, PyTorch, OpenMMLab, OpenCV, Open3D, NumPy, Docker, Git, LaTeX, VS Code.
-
-### Werkstudent – Perzeption & Sensorsysteme | HAT.tec GmbH, Neubiberg
-
-* 10/2022 – 10/2024
-* **Schwerpunkt:** Entwicklung und Integration modularer **C++/Python-Komponenten** für Sensor-/Bildverarbeitungssysteme unter Verwendung von **ROS2** für verteilten Datenfluss. Spezialisierung auf das Deployment von **Tiny Object Detection**.
-* **Wesentliche Beiträge:**
-* Entwurf, Training und Deployment optimierter **State-of-the-Art Tiny Object Detection** Modelle (z. B. zur Flugzeugerkennung), zugeschnitten auf spezifische Sensordaten.
-* Entwicklung modularer **C++- und Python-Komponenten** mit **ROS2** zur effizienten Sensordatenverarbeitung und -analyse.
-* Durchführung eines umfassenden **Refactorings** bestehender Softwaremodule zur signifikanten Steigerung der Performance, Reduzierung der Latenz und Erhöhung der langfristigen Wartbarkeit.
-* Integration und Testen von Softwarekomponenten auf unterschiedlichen Zielsystemen (**ARM (Jetson), x86**) sowie Management der Hardwareanbindung und -schnittstellen.
-* Implementierung robuster und automatisierter Test-Frameworks mithilfe von **GoogleTest (C++)** und **PyTest (Python)**.
-
-
-* *Technologien:* C++, Python, ROS2, Qt, OpenCV, CMake, Conan, GoogleTest, Linux, Docker, Git.
-
-### Praktikant / Werkstudent / Bachelorarbeit – Computer Vision & Bildverarbeitung | HENSOLDT Optronics GmbH, Oberkochen
-
-* 09/2020 – 09/2022
-* **Schwerpunkt:** Benchmarking und effizientes Deployment von Deep Neural Network Objektdetektoren auf Embedded-Hardware (Edge Devices).
-* **Bachelorarbeit:** *„Evaluierung und Optimierung von Deep-Learning-basierter Objekterkennung auf Embedded Inference Hardware von Xilinx und Nvidia“*. Note: **1,3**
-* **Veröffentlichung:** *A Framework for Benchmarking Real-Time Embedded Object Detection, DAGM GCPR 2022*.
-* **Wesentliche Beiträge:**
-* Entwurf und Implementierung eines neuartigen, leichtgewichtigen **Generischen Benchmarking Frameworks** zur Verbindung eines Host-Evaluierungs-PCs mit mehreren Embedded-Zielgeräten.
-* Nutzung und Vergleich herstellerspezifischer Optimierungspipelines (**Nvidia TensorRT für Jetson AGX Xavier, Xilinx Vitis AI für ZCU104**).
-* Implementierung der Ziel-**C++-Software** und Konfiguration von **Embedded-Linux-Umgebungen (Buildroot)** für das direkte Deployment.
-
-
-* *Technologien:* C++, CMake, Buildroot, Python, Docker, OpenVino, Qt, Linux, TensorRT, GStreamer.
+* Deutsch (Muttersprache)
+* Englisch (Fließend)
+* Russisch (Grundkenntnisse)
 
 ---
 
-## PROJEKTE
+# AUSBILDUNG
 
-### Portfolio Chat API [[github.com/mischlox/portfolio-backend](github.com/mischlox/portfolio-backend)]
+## Master of Science – Robotics, Cognition and Intelligence
 
-* **FastAPI-Backend** für ein professionelles Portfolio mit KI-Assistent und Email-Kontakt-Service.
-* Implementierung eines **Intelligenten RAG-Chatbots** (Retrieval-Augmented Generation) zur Beantwortung von Fragen zum beruflichen Werdegang mittels **LangGraph** und **Chroma Vector Store**.
-* Realisierung einer **Multi-Step-Logik** durch eine State-Machine-Architektur für komplexe Abfragen.
-* Integrierter **Email-Service** zur automatisierten Verarbeitung von Kontaktanfragen.
-* *Technologien:* Python, FastAPI, LangGraph, ChromaDB, RAG, OpenAI API / Gemini API.
+**Technische Universität München**
+10/2022 – 09/2025
 
+Schwerpunkt auf **KI-basierter Wahrnehmung für autonome Systeme** und intelligente Robotik.
 
-### Company Research Agent [[github.com/mischlox/company-researcher](github.com/mischlox/company-researcher)]
+### Fokusbereiche
 
-* Tool für **automatisierte Unternehmensrecherche**, optimiert für die Vorbereitung von Bewerbungsgesprächen.
-* **Orchestrierung von Agenten** zur Generierung von Suchanfragen, Durchführung von Web-Suchen und Kompilierung von Berichten und Interviewfragen.
-* Implementiert mit dem **Google ADK** (Agent Development Kit) und interaktiver Oberfläche mittels **Gradio**.
-* Fokus auf **Multi-Agenten-Architektur** und Nutzung von LLMs für datengesteuerte Analysen.
-* *Technologien:* Python, Google ADK, Gradio, Gemini API, Pydantic, MLflow.
+* Computer Vision
+* 3D-Rekonstruktion
+* Objekterkennung und Segmentierung
+* Sensor Fusion
+* Maschinelles Lernen
+* Echtzeitsysteme
+* Autonomes Fahren
 
-### Face Touching Detector [[github.com/mischlox/face-touching-detector](github.com/mischlox/face-touching-detector)]
+---
 
-* Desktop-App in **C++** zur **Echtzeit-Erkennung** von Berührungen des Gesichts durch Überlappung von Händen und Gesichtern.
-* Implementierung der **YOLOv5m-Modellinferenz** mit **Libtorch C++** für hohe Leistung.
-* Fokus auf **modulare Architektur**, Visualisierung mit **Qt5** GUI und vereinfachtes Deployment via **Docker**.
-* *Technologien:* C++, Libtorch, Qt, Docker, CUDA, YOLOv5.
+## Masterarbeit
 
-### Augmented Reality Object Recognition App [[github.com/mischlox/AR-App-Object-Recognition](github.com/mischlox/AR-App-Object-Recognition)]
+### Multimodal Pseudo-Labeling for 3D Object Detection in Autonomous Driving
 
-* **Android-App in Java** zur **Echtzeit-Objekterkennung** und Lernen direkt mit der Smartphone-Kamera.
-* Kernfunktionalität basiert auf **Continual Learning** (Transfer Learning) zur Erweiterung eines vor-trainierten **MobilenetV2-Modells** mit neuen Objekten.
-* Die gesamte Verarbeitung (Training und Inferencing) erfolgt **offline auf dem Gerät** (On-Device Processing).
-* *Technologien:* Java, TensorFlow Lite, Android SDK, MobilenetV2.
+**Note: 1.0**
 
-### Employee Time Tracking System
+Entwicklung einer Pipeline zur Verbesserung der **3D-Objekterkennung bei begrenzten oder verrauschten LiDAR-Annotationen** durch Nutzung zusätzlicher Kamerainformation.
 
-* Desktop-Tool mit Login, Zeiterfassung, Admin-Dashboard, Soll-/Ist-Stunden, Urlaubs- & Krankheitsverwaltung, PDF-Export.
-* Produktiver Einsatz in 3 Filialen.
-* *Technologien:* Python, SQLite, JavaScript, Eel, HTML, CSS.
+### Beiträge
 
-### ROS2 Scan Table Manager [[github.com/mischlox/ros2-scan-table-cell](https://github.com/mischlox/ros2-scan-table-cell)]
+* Entwicklung einer **kameragestützten Pseudo-Labeling-Pipeline** zur Kombination von:
 
-* Simulation einer automatisierten Pick-and-Place-Inspektionszelle mit **ROS2**.
-* Ein zentraler State-Machine-Node koordiniert **Roboterbewegungen, Barcode-Scans** und **Objektvalidierungen** über asynchrone Service-Interaktionen.
-* Mehrere Mock-Hardware-Nodes simulieren **Scanner, Sensoren und Aktoren**, um modulare ROS2-Node-Architektur und industrielle Automatisierungsworkflows zu demonstrieren.
-* *Technologien:* ROS2, C++, Robot Control, State Machines, Docker, Industrial Automation.
+  * monokularer Tiefenschätzung
+  * 2D-Detektion und Segmentierung
+  * LiDAR-basierter 3D-Detektion
 
-### PiSignage – Low-Cost Digital Signage System [[github.com/mischlox/pisignage](https://github.com/mischlox/pisignage)]
+* Generierung von **Pseudo-LiDAR Punktwolken aus monokularen Bildern** mittels State-of-the-Art Depth Estimation und Depth Correction.
 
-* Selbstgehostetes, kostengünstiges **Digital Signage System** auf Basis von **Raspberry Pi**.
-* Vermeidung von abonnementbasierten Plattformen und Vendor Lock-in.
-* Läuft auf einem **Raspberry Pi Zero 2W** und einem Desktop-PC als Host.
-* **Remote Device Management** über Tailscale Funnel.
-* Produktiv auf 6 Monitoren in 3 Supermarkt-Filialen
-* *Technologien:* Python, Embedded Systems, Flask, Electron, Node.js, Raspberry Pi, Bash, Tailscale.
+* Implementierung **projektions- und segmentierungsbasierter Label-Verfeinerung**, bei der 3D-Klassen mithilfe von 2D-semantischer Evidenz aktualisiert werden.
+
+* Integration und Erweiterung von **OpenPCDet und nuScenes**, inklusive:
+
+  * eigener Evaluationsmetriken (z. B. Range-based Metrics)
+  * effizienter Annotation-Verarbeitung.
+
+* Analyse von **Domain Gaps zwischen Datensätzen** und Evaluation von:
+
+  * Semi-Supervised Learning
+  * Unsupervised Domain Adaptation.
+
+* Nachweis **messbarer Verbesserungen der Detektionsqualität und Label-Konsistenz** durch multimodale Supervision bei reduziertem manuellen Labelaufwand.
+
+Starker Fokus auf **modulare Forschungssoftware, reproduzierbare Experimente und systematische Evaluation unter realistischen autonomen Fahrszenarien**.
+
+---
+
+## Bachelor of Science – Informatik / Software Engineering
+
+**Hochschule Aalen**
+10/2018 – 09/2022
+
+Schwerpunkte:
+
+* Software-Architektur
+* Clean Code
+* Software Testing
+* Verteilte Systeme
+* Embedded Systems
+* Mobile Entwicklung
+
+---
+
+## Bachelorarbeit & Veröffentlichung
+
+### Thesis
+
+**Evaluation and Optimization of Deep-Learning based Object Detection on Embedded Inference Hardware from Xilinx and Nvidia**
+**Note: 1.3**
+
+### Veröffentlichung
+
+*A Framework for Benchmarking Real-Time Embedded Object Detection*
+**DAGM GCPR 2022**
+
+---
+
+# BERUFSERFAHRUNG
+
+## Software Engineer (Teilzeit)
+
+**JOOLS GmbH – Heubach**
+10/2025 – Heute
+
+Teilzeitrolle mit Fokus auf **praktische Softwarelösungen zur Automatisierung und Digitalisierung eines Einzelhandelsunternehmens**.
+
+### Schwerpunkte
+
+* Entwicklung von Tools zur **Automatisierung täglicher Geschäftsprozesse**
+* Digitalisierung interner Abläufe
+* Entwicklung kostengünstiger IT-Systeme für kleine Unternehmen
+
+### Wichtige Beiträge
+
+#### Digital Signage System
+
+Entwicklung eines **Raspberry-Pi-basierten Systems zur Verwaltung von Werbebildschirmen** in mehreren Filialen.
+
+Funktionen:
+
+* zentrale Inhaltssteuerung
+* Remote Updates
+* Monitoring
+
+Remote-Management über **Tailscale**.
+
+---
+
+#### Employee Time Tracking System
+
+Konzeption und Implementierung einer **Full-Stack Desktop-Anwendung** zur Mitarbeiterzeiterfassung.
+
+Features:
+
+* Login-System
+* Arbeitszeit-Tracking
+* Admin-Dashboard
+* Urlaubs- und Krankheitsverwaltung
+* automatische **PDF-Reports für die Lohnabrechnung**
+
+Technologien:
+
+Python, SQLite, JavaScript
+
+---
+
+#### Inventory & Sales Analysis Tools
+
+Entwicklung von Skripten zur **Analyse von Wareneingang und Verkaufsdaten**, um:
+
+* Lagerplanung zu unterstützen
+* automatisierte Bestellvorschläge zu generieren.
+
+---
+
+#### Infrastruktur & IT-Support
+
+* Netzwerksetup
+* Geräteinstallation
+* Einrichtung von **IP-Kamerasystemen**
+* Unterstützung bei Systemkonfiguration und IT-Sicherheit.
+
+---
+
+#### Workflow Automation
+
+Entwicklung kleiner **Python- und Bash-Utilities**, um:
+
+* manuelle Dateneingaben zu reduzieren
+* interne Abläufe zu automatisieren
+* Fehlerquellen zu minimieren.
+
+---
+
+## Werkstudent – Perzeption & Sensorsysteme
+
+**HAT.tec GmbH – Neubiberg**
+10/2022 – 10/2024
+
+Entwicklung und Integration modularer **C++/Python Komponenten für Sensor- und Bildverarbeitungssysteme unter Linux**.
+
+**ROS2** wurde genutzt, um **verteilte Datenflüsse zwischen Sensoren und Algorithmen zu strukturieren und zu orchestrieren**.
+
+---
+
+### Fokusbereiche
+
+* Sensor- und Bildverarbeitungssysteme
+* verteilte ROS2-Architekturen
+* Tiny Object Detection
+* Deployment von Deep-Learning-Modellen auf Zielhardware
+
+---
+
+### Wichtige Beiträge
+
+#### Object Detection Pipeline
+
+Entwurf, Training und Deployment optimierter **State-of-the-Art Tiny Object Detection Modelle** (z. B. zur Flugzeugerkennung).
+
+Modelle wurden **an spezifische Sensordaten und Domänenanforderungen angepasst**.
+
+---
+
+#### Dataset Management & Annotation
+
+* Verwaltung großer Datensätze
+* Annotation von Trainingsdaten
+* Data Augmentation
+* Vorbereitung von Trainings- und Evaluationsdaten.
+
+---
+
+#### Sensor Processing
+
+Entwicklung modularer **C++ und Python Komponenten innerhalb von ROS2 Anwendungen** zur effizienten Verarbeitung und Analyse von Sensordatenströmen.
+
+---
+
+#### Refactoring & Performance Optimization
+
+Durchführung umfangreicher **Refactorings bestehender Softwaremodule** zur:
+
+* Performance-Steigerung
+* Reduktion der Systemlatenz
+* Verbesserung der Wartbarkeit.
+
+---
+
+#### Cross-Platform Deployment
+
+Integration und Test von Softwarekomponenten auf verschiedenen Zielplattformen:
+
+* ARM (Jetson)
+* x86
+* kundenspezifische Hardware.
+
+Verantwortung für **Hardware-Anbindung und Schnittstellenintegration**.
+
+---
+
+#### Quality Assurance
+
+Entwicklung automatisierter Tests mit:
+
+* **GoogleTest (C++)**
+* **PyTest (Python)**
+
+zur Sicherstellung von **Code-Robustheit und Systemstabilität**.
+
+---
+
+## Praktikant / Werkstudent / Bachelorarbeit
+
+### Computer Vision & Bildverarbeitung
+
+**HENSOLDT Optronics GmbH – Oberkochen**
+09/2020 – 09/2022
+
+Fokus auf **Benchmarking und Deployment von Deep-Learning-Objektdetektoren auf Embedded Hardware (Edge Devices)**.
+
+---
+
+### Fokusbereiche
+
+* Edge AI
+* Embedded Deep Learning
+* Benchmarking von Inference-Hardware
+* Cross-Platform Model Deployment
+
+---
+
+### Wichtige Beiträge
+
+#### Generic Benchmarking Framework
+
+Entwurf und Implementierung eines **leichtgewichtigen Frameworks**, um einen Host-Evaluations-PC mit mehreren Embedded-Systemen zu verbinden.
+
+---
+
+#### Comprehensive Evaluation
+
+Trennung von:
+
+* Datenverteilung
+* Evaluationslogik
+
+um gleichzeitig messen zu können:
+
+* Genauigkeit
+* Laufzeit
+* Energieverbrauch
+
+ohne die Zielhardware zu beeinflussen.
+
+---
+
+#### Optimization & Cross-Platform Deployment
+
+Vergleich und Nutzung von **vendor-spezifischen Optimierungspipelines**:
+
+* Nvidia TensorRT (Jetson AGX Xavier)
+* Xilinx Vitis AI (ZCU104)
+
+Analyse von **Accuracy vs. Speed Trade-offs** durch:
+
+* Quantization
+* Pruning.
+
+---
+
+#### Embedded Systems Implementation
+
+* Entwicklung der Zielsoftware in **C++**
+* Konfiguration von **Embedded Linux Umgebungen**
+* Deployment und Verifikation von Deep Learning Modellen auf **FPGA- und GPU-Plattformen**.
+
+---
+
+# PROJEKTE
+
+## Portfolio Chat API
+
+github.com/mischlox/portfolio-backend
+
+Backend für ein Portfolio mit integriertem **KI-Assistenten**.
+
+Features:
+
+* RAG-basierter Chatbot für Fragen zum beruflichen Werdegang
+* Vektor-Datenbank zur semantischen Suche
+* State-Machine-basierte Multi-Step-Logik
+* integrierter Email-Service.
+
+Technologien:
+
+Python, FastAPI, LangGraph, ChromaDB, OpenAI API, Gemini API
+
+---
+
+## Company Research Agent
+
+github.com/mischlox/company-researcher
+
+Tool für **automatisierte Unternehmensrecherche zur Interviewvorbereitung**.
+
+Funktionen:
+
+* Generierung von Suchanfragen
+* Web-Recherche
+* automatische Erstellung von Berichten und Interviewfragen.
+
+Technologien:
+
+Python, Google ADK, Gradio, Gemini API, Pydantic, MLflow
+
+---
+
+## Face Touching Detector
+
+github.com/mischlox/face-touching-detector
+
+C++ Desktop-Anwendung zur **Echtzeit-Erkennung von Gesichtsberührungen**.
+
+Technologien:
+
+* YOLOv5m
+* Libtorch C++
+* Qt GUI
+* CUDA
+
+---
+
+## Augmented Reality Object Recognition App
+
+github.com/mischlox/AR-App-Object-Recognition
+
+Android-App zur **Echtzeit-Objekterkennung und Erweiterung eines ML-Modells direkt auf dem Smartphone**.
+
+Features:
+
+* Continual Learning
+* On-Device Training
+* Offline Inference
+
+Technologien:
+
+Java, TensorFlow Lite, Android SDK, MobileNetV2
+
+---
+
+## ROS2 Scan Table Manager
+
+github.com/mischlox/ros2-scan-table-cell
+
+Simulation einer **automatisierten Pick-and-Place-Inspektionszelle**.
+
+Ein zentraler State-Machine-Node koordiniert:
+
+* Roboterbewegungen
+* Barcode-Scans
+* Objektvalidierungen
+
+über asynchrone ROS2-Services.
+
+---
+
+## PiSignage – Low Cost Digital Signage System
+
+github.com/mischlox/pisignage
+
+Selbstgehostetes Digital-Signage-System auf Raspberry Pi.
+
+Features:
+
+* Remote Device Management
+* kostengünstige Alternative zu kommerziellen Lösungen
+* produktiver Einsatz auf mehreren Displays.
+
+Technologien:
+
+Python, Flask, Electron, Node.js, Raspberry Pi, Tailscale.
+
