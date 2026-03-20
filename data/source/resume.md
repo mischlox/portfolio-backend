@@ -388,6 +388,27 @@ Analysis of **accuracy vs. speed trade-offs** through:
 
 # PROJECTS
 
+## InfluxSense – Embedded People Counter
+
+github.com/mischlox/influxsense
+
+Self-hosted foot-traffic counter for small retail businesses running on a Raspberry Pi with a VL53L5CX Time-of-Flight sensor. No cloud, no camera, ~€30 in hardware.
+
+Features:
+
+* 8×8 ToF depth grid processed at 20 Hz with FSM-based entry/exit detection
+* Hardware abstraction layer (`ISensor`) with mock for host-side development and testing
+* Multithreaded producer/consumer pipeline with fixed-capacity ring buffer (`std::array`, no heap allocation after startup)
+* SQLite persistence with CTE-based hourly aggregation
+* Live web dashboard over HTTP with Server-Sent Events — accessible from any device on the local network
+* aarch64 cross-compilation, automated deploy via rsync + systemd
+
+Technologies:
+
+C++17, CMake, Conan 2, SQLite, GoogleTest, Raspberry Pi
+
+---
+
 ## Portfolio Chat API
 
 github.com/mischlox/portfolio-backend
